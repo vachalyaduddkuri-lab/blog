@@ -1,0 +1,7 @@
+*{
+    background-color: powderblue;
+}
+.one::first-letter{
+    font-size:30px;
+    color:red;
+}
